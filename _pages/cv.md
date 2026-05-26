@@ -23,11 +23,15 @@ redirect_from:
 
 ## Research Interests
 
+<div style="font-size: 0.85em;">
 Social Psychology · Social Networks · Emotions & Moral Psychology · Culture & Cognition · Gender & Sexuality · Health, Aging & Life Course
+</div>
 
 ---
 
 ## Works in Progress
+
+<div style="font-size: 0.85em;">
 
 Kwak, H. & Long Doan. (*Forthcoming*). "Emotion." In *Oxford Research Encyclopedia of Sociology*. New York: Oxford University Press.
 
@@ -41,9 +45,13 @@ Kwak, H. "Factors Influencing the Persistence of Sexual Activity Among American 
 
 Sung, K., Kwak, H., Baek, Y., Choi, J., and Youm, Y. "Sexlessness in Seoul by Age and Gender." Working Paper.
 
+</div>
+
 ---
 
 ## Selected Presentations
+
+<div style="font-size: 0.85em;">
 
 Kwak, H., Heo, Y., Sung, K., Baek, Y., Choi, J., and Youm, Y. "Giving Up Sex Involuntarily: Underclass Young Men in Korea."
 * 2022 International Conference on Sociology of Korea (I-CSK), Philadelphia, PA, Oct 2022
@@ -52,6 +60,8 @@ Kwak, H., Heo, Y., Sung, K., Baek, Y., Choi, J., and Youm, Y. "Giving Up Sex Inv
 
 Sung, K., Kwak, H., Baek, Y., Choi, J., and Youm, Y. "Sexlessness in Seoul by Age and Gender."
 * Sociological Conference for the Korean Sociological Association, Pohang, South Korea, Jun 2024
+
+</div>
 
 ---
 
