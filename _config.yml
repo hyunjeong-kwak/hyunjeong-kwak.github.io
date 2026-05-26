@@ -25,7 +25,7 @@ words_per_minute         : 160
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Hyunjeong Kwak"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Sociology <br> University of Maryland, College Park"
