@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+<p style="text-align:right"><a href="/files/cv.pdf">Download PDF</a></p>
+
 ## Education
 
-* Ph.D. Student, Sociology, University of Maryland, College Park (Aug 2025 – May 2030, Expected)
-* M.A., Sociology, Yonsei University (Mar 2022 – Oct 2024)
-* B.P.A., Public Administration & B.E., Economics (Double Major), Hankuk University of Foreign Studies (Mar 2018 – Feb 2022)
+| | |
+|---|---|
+| Aug 2025 – May 2030 (Expected) | **Ph.D. Student, Sociology** <br> University of Maryland, College Park |
+| Mar 2022 – Oct 2024 | **M.A., Sociology** <br> Yonsei University |
+| Mar 2018 – Feb 2022 | **B.P.A., Public Administration & B.E., Economics** (Double Major) <br> Hankuk University of Foreign Studies |
 
 ---
 
@@ -53,47 +57,50 @@ Sung, K., Kwak, H., Baek, Y., Choi, J., and Youm, Y. "Sexlessness in Seoul by Ag
 
 ## Research Activities
 
-**Social Networks and Health Project**, University of Maryland (P.I.: Nicholas Smith) — Summer 2026
-* Research Assistant: network analyses, manuscript preparation using P2P dataset
-
-**COVID-19 and Loneliness Project**, University of Maryland (P.I.: Long Doan) — Fall 2025
-* Research Assistant: systematic literature review
-
-**National Social Life Health and Aging Project (NSHAP) Summer Internship**, NORC at the University of Chicago (Advisor: James Iveniuk) — Summer 2023
-* Summer Intern: network analyses, individual research project on sexual activity among older married couples
-
-**Social Networks & Neuroscience Lab (SNN Lab)**, Yonsei University (Advisor: Yoosik Youm) — 2022–2023
-* Research Assistant, Seoul Survey on Sexual Health and Behaviors; Korean Social Life, Health and Aging Project (KSHAP); Korean Urban Rural Elderly Study (KURE); Korean Study of Adolescent Health (KSAH); Korean Jeon-sae Fraud Network Analysis
+| | |
+|---|---|
+| Summer 2026 | **Social Networks and Health Project**, University of Maryland <br> P.I.: Nicholas Smith <br> *Position:* Research Assistant <br> *Responsibilities:* Network analyses; manuscript preparation using P2P dataset |
+| Fall 2025 | **COVID-19 and Loneliness Project**, University of Maryland <br> P.I.: Long Doan <br> *Position:* Research Assistant <br> *Responsibilities:* Systematic literature review |
+| Summer 2023 | **National Social Life Health and Aging Project (NSHAP) Summer Internship** <br> NORC at the University of Chicago <br> Advisor: James Iveniuk <br> *Position:* Summer Intern <br> *Responsibilities:* Weekly meetings with NSHAP Research Team; network analyses; individual research project: *Factors Influencing the Persistence of Sexual Activity Among American Older Married Couples Using NSHAP* |
+| 2022 – 2023 | **Social Networks & Neuroscience Lab (SNN Lab)**, Yonsei University <br> Advisor: Yoosik Youm <br> *Position:* Research Assistant <br><br> *(1) Seoul Survey on Sexual Health and Behaviors*, funded by Gilead Sciences Korea Ltd. <br> *Responsibilities:* Network analyses; manuscript writing <br><br> *(2) Korean Social Life, Health and Aging Project (KSHAP)*, funded by National Research Foundation, Korea <br> *Responsibilities:* Survey and interview design; IRB management; network data management; network analyses <br><br> *(3) Korean Urban Rural Elderly Study (KURE)*, funded by Korea Centers for Disease Control and Prevention <br> *Responsibilities:* Face-to-face interviews; health assessments at Severance Hospital; network data management; network analyses <br><br> *(4) Korean Study of Adolescent Health (KSAH)*, funded by Yonsei University and National Research Foundation, Korea <br> *Responsibilities:* Survey administration; RA training; online surveys; interviews; DNA collection; fMRI experiment; IRB management; network analyses <br><br> *(5) Korean Jeon-sae Fraud Network Analysis: 'Villa King' Case*, funded by KBS <br> *Responsibilities:* Network data management; network analyses; contributions to news coverage |
 
 ---
 
-## Teaching
+## Teaching Activities
 
-* Introduction to Sociology (Undergraduate), University of Maryland — Spring 2026
-* Sociological Social Psychology (Undergraduate), University of Maryland — Fall 2025, Fall 2023
-* Future of Sociology (Undergraduate), Yonsei University — Fall 2023
+| | |
+|---|---|
+| Spring 2026 | **Introduction to Sociology** (Undergraduate) <br> University of Maryland <br> Instructor: Nicholas Smith |
+| Fall 2026, Spring 2026 | **Sociological Social Psychology** (Undergraduate) <br> University of Maryland <br> Instructor: Nicholas Smith |
+| Fall 2023 | **Future of Sociology** (Undergraduate) <br> Yonsei University <br> Instructor: Yoosik Youm |
 
 ---
 
 ## Honors and Awards
 
-* Outstanding Graduate Assistant Award, Graduate School, University of Maryland — 2026
-* Dean's Fellowship, College of Behavioral and Social Sciences, University of Maryland — 2025–2026
-* Work Station Scholarship, GS Social Innovation Project (GSIP), Yonsei University — 2023
-* Department Travel Grant for NORC, Yonsei University — 2023
-* Brain Korea 21+ Research Fellowship, Korean Ministry of Education — 2022–2023
-* Journalism Scholarship, Hankuk University of Foreign Studies — 2018–2020
+| | |
+|---|---|
+| 2026 | Outstanding Graduate Assistant Award, Graduate School, University of Maryland |
+| 2025 – 2026 | Dean's Fellowship, College of Behavioral and Social Sciences, University of Maryland |
+| 2023 | Work Station Scholarship: GS Social Innovation Project (GSIP), Yonsei University |
+| 2023 | Department Travel Grant for NORC, Yonsei University |
+| 2022 – 2023 | Brain Korea 21+ Research Fellowship, Korean Ministry of Education |
+| 2018 – 2020 | Journalism Scholarship, Hankuk University of Foreign Studies |
 
 ---
 
-## Service
+## Service and Leadership
 
-* Editor-in-Chief (Final Position), *The Argus*, Campus English Magazine, Hankuk University of Foreign Studies — 2018–2020
+| | |
+|---|---|
+| 2018 – 2020 | *Editor-in-Chief* (Final Position) <br> *The Argus*, Campus English Magazine, Hankuk University of Foreign Studies |
 
 ---
 
 ## Skills
 
-* **Statistics:** Stata, R, Python, Pajek, Gephi
-* **Languages:** Korean (Native), English (Fluent), Chinese (Intermediate)
-* **Training:** KOSSDA Methodology Education Program (100 hrs); AIFFEL Core AI Program, Modu Labs (960 hrs)
+| | |
+|---|---|
+| Statistics | Stata, R, Python, Pajek, Gephi |
+| Languages | Korean (Native), English (Fluent), Chinese (Intermediate) |
+| Training | KOSSDA Methodology Education Program (100 hrs) <br> AIFFEL Core AI Program, Modu Labs (960 hrs) |
